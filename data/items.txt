@@ -1,0 +1,23 @@
+Book|B001|Introduction to Java|James Gosling|Tech Books|2023|978-0134685991|500|Available
+Book|B002|Data Structures and Algorithms|Robert Lafore|Pearson|2022|978-0134841237|800|Available
+Book|B003|Clean Code: A Handbook|Robert Martin|Prentice Hall|2008|978-0132350884|464|Available
+Book|B004|Design Patterns|Erich Gamma|Addison-Wesley|1994|978-0201633610|395|Available
+Book|B005|The C Programming Language|Brian Kernighan|Prentice Hall|1988|978-0131103627|272|Available
+Magazine|M001|National Geographic March 2024|National Geographic Society|2024|2024-03-01|245|Available
+Magazine|M002|Scientific American February|Springer Nature|2024|2024-02-15|328|Available
+Magazine|M003|Time Magazine January|Time USA|2024|2024-01-20|193|Available
+Magazine|M004|Nature Weekly|Nature Publishing|2024|2024-03-10|156|Available
+Magazine|M005|Forbes Business|Forbes Media|2024|2024-02-28|89|Available
+DVD|D001|Inception|Christopher Nolan|2010|148|PG-13|Available
+DVD|D002|The Shawshank Redemption|Frank Darabont|1994|142|R|Available
+DVD|D003|The Dark Knight|Christopher Nolan|2008|152|PG-13|Available
+DVD|D004|Pulp Fiction|Quentin Tarantino|1994|154|R|Available
+DVD|D005|The Godfather|Francis Ford Coppola|1972|175|R|Available
+DigitalBook|DB001|Python Crash Course|Eric Matthes|No Starch Press|2019|978-1593279288|560|3.2|PDF|http://download.com/python-crash.pdf
+DigitalBook|DB002|JavaScript: The Good Parts|Douglas Crockford|O'Reilly|2008|978-0596517748|176|1.8|EPUB|http://download.com/js-good-parts.epub
+DigitalBook|DB003|Head First Design Patterns|Eric Freeman|O'Reilly|2004|978-0596007126|694|4.5|PDF|http://download.com/hf-design-patterns.pdf
+DigitalBook|DB004|The Pragmatic Programmer|Andrew Hunt|Addison-Wesley|1999|978-0201616224|352|2.1|EPUB|http://download.com/pragmatic-programmer.epub
+DigitalBook|DB005|Refactoring: Improving Design|Martin Fowler|Addison-Wesley|2000|978-0201485677|400|3.7|PDF|http://download.com/refactoring.pdf
+Book|B007|unknown|aya|aya|2007|1234567891|200|Available
+Book|B0010|unknown|me|me|2006|1098765432|2000|Available
+Book|B009|sdjhgsd|yhgsdh|hsduyd|2000|1234567899|200|Available

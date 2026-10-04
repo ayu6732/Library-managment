@@ -1,0 +1,16 @@
+Professor|P001|Aya belkobidji|aya.bek@univ.edu|0776972427|123 University of medicine|Computer Science|Artificial Intelligence|PWD:ayaaysha
+Professor|P002|benzert fatima|fati.b@univ.edu|555-0102|456 University of languages|French|relations and politeness |PWD:
+Professor|P003|kherouaa Khadija|dija.kh@univ.edu|555-0103|789 University of computer science |computer science |data analysis |PWD:
+Professor|P005|Abdellah meriem |mimi.a@univ.edu|555-0105|202 university of data science |Chemistry|Organic Chemistry|PWD:
+Student|S001|khloufi Mohammed marwen |marwen.kh@student.edu|555-0201|303 University of law |law of new generation |5|PWD:
+Student|S002|belkobidji bouchra |bouchra.m@student.edu|555-0202|404 university of teachers|arabic|5|PWD:
+Student|S003|Ahmed djawad|ahmed.dj@student.edu|555-0203|505 College 100 |Physics|5|PWD:
+Student|S004|gh meriem|mimi.gh@student.edu|555-0204|606 university of science and technology |Biology|5|PWD:
+Staff|ST001|Mohammed Ibrahim |moh.i@library.edu|555-0301|808 Library St|Librarian|7|PWD:
+Staff|ST002|fatima belkhadm |fatima.bel@library.edu|555-0302|909 Archive Ave|Archivist|7|PWD:
+Staff|ST003|ahmed latrouch|ahmed.l@library.edu|555-0303|1010 Catalog Blvd|Catalog Manager|7|PWD:
+Staff|ST004|soumiya ahmed |susan.m@library.edu|555-0304|1111 Reference Way|Reference Librarian|7|PWD:
+Staff|ST005|youcef abdllah |joseph.a@library.edu|555-0305|1212 Circulation Rd|Circulation Manager|7|PWD:
+Member|M003|ayat nour el houda|charles.r@community.org|555-0403|1515 Pine Blvd|Teacher|5|PWD:
+Member|M005|sarah el Khalil |issuora.l@community.org|555-0405|1717 Cedar Rd|Retired|5|PWD:
+Student|KWPNWPFN|merieeeeem|meriembdl26@gmail.com|0792217221|mostq, mamach|Computer Science|5|PWD:
